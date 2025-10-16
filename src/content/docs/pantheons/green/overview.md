@@ -1,0 +1,13 @@
+---
+title: Green Pantheon
+---
+
+### Govern Nature, Bounty, Forests, Farms, Animals, and The Wild
+
+| Name | Title | Alignment | Domains | Description |
+| --- | --- | --- | --- | --- |
+| [Silvanus](/assets/pantheons/green_pantheon/Silvanus.jpg) | The Old Man of the Forest | True Neutral | Nature, Seasons, Wilderness | Silvanus is the embodiment of the forest and the ancient, unchanging rhythm of the wilderness. This god enforces the cycle of growth and destruction without moral judgment. Followers dedicate themselves to preserving the balance of ecosystems and respecting the territories of wild nature. |
+| [Ceres](/assets/pantheons/green_pantheon/Ceres.jpg) | The Harvest Mother | Neutral Good | Life, Bounty, Community | Ceres is the deity of agricultural abundance, fertile soil, and the security of a successful harvest. She represents the cooperative side of nature, guiding farmers, blessing crops, and ensuring the bounty of the land supports the community. Her priests oversee planting and seasonal festivals. |
+| [Zinneroc](/assets/pantheons/green_pantheon/Zinneroc.jpg) | The Feral Sovereign | Chaotic Neutral | Wild, Beasts, Survival | Zinneroc is the unified deity of all natural beasts, the wild hunt, and the raw instinct necessary for survival. This god embodies the amoral, eternal cycle of predator and prey, ensuring that the necessary culling occurs to maintain the strength of the herds. Zinneroc demands respect for the chase and the life of all animals, both the hunted and the hunter. Worshipers are often trackers, rangers, and those who reject civilization for the pure law of the wild.|
+| [Kalista](/assets/pantheons/green_pantheon/Kalista.jpg) | The Deep Tide | True Neutral | Water, Tempest, Knowledge | Thalassa governs the depths of the oceans, the bounty of all aquatic life, and the silent, crushing pressure of the abyssal dark. She watches over fish, sea creatures, and those who subsist by fishing, ruling over the ebb and flow of all water—from the smallest spring to the Siren's Embrace. Her domain is the vast, amoral power of the deep, embodying the wisdom of unplumbed mysteries and the sudden violence of the storm. She demands respect for the waters and the creatures within. |
+| [Kyndra](/assets/pantheons/green_pantheon/Kyndra.jpg) | The Untamed Wind | Chaotic Good | Tempest, Freedom, Air | Kyndra is the deity of open skies, unrestrained winds, and the freedom of the nomadic journey. This god represents the element of air and swift, unpredictable change. Kyndra is worshipped by sailors, traveling merchants, and those who prize liberty and the thrill of new horizons. |
