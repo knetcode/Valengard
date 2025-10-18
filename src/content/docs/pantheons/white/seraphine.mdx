@@ -2,6 +2,15 @@
 title: Seraphine
 ---
 
-| Name | Title | Alignment | Domains | Description |
-| --- | --- | --- | --- | --- |
-| [Seraphine](/assets/pantheons/white_pantheon/Seraphine.jpg) | The Unblemished Star | Lawful Neutral | Light, Order, Death | Seraphine is the deity of absolute purity, divine duty, and eternal vigilance. She demands strict adherence to vows and moral codes, acting as a barrier against corruption and is often worshiped by monastic orders and keepers of sacred relics. |
+import { Image } from "astro:assets";
+import image from "../../../../assets/pantheons/white_pantheon/Seraphine.jpg";
+
+<Image src={image} alt="Seraphine" width={600} height={600} loading="lazy" style={{ margin: "0 auto" }} />
+
+- **Titles**: The Unblemished Star, The Light of Divine Duty, The Watcher Against Corruption, The Immaculate Barrier
+- **Alignment**: Lawful Neutral
+- **Domains**: Light, Order, Death
+- **Description**: Seraphine is the deity of absolute purity, divine duty, and eternal vigilance. She demands strict adherence to vows and moral codes, acting as a barrier against corruption and the slow creep of evil. She represents light used as a tool of cleansing and judgment, favoring those who maintain unblemished integrity. Seraphine is often worshiped by monastic orders and keepers of sacred relics. She judges all beings based on their loyalty to their sworn oaths and the purity of their intent.
+- **Worshippers**: Monastic orders, keepers of sacred relics, priests who administer oaths, paladins and clerics who take binding vows, sentinels, and any who dedicate their lives to resisting personal or societal corruption. They honor Seraphine by performing cleansing rituals, meticulously following established sacred routines, and confessing and atoning for any broken vow.
+- **Passive Boon**:
+- **Active Boon**: Boon of the Unblemished Vow Seraphine grants you a protective light that repels corruption and strengthens your resolve. You gain resistance to Necrotic damage (representing the corruption of the body) and advantage on all saving throws against the Charmed condition. Additionally, once per long rest, you can invoke Seraphine's light: as a bonus action, you emanate bright light in a 10-foot radius and dim light for an additional 10 feet. For the next minute, any creature that starts its turn in the bright light and is not of Good alignment takes 1d6 radiant damage, as Seraphine's purity sears them.

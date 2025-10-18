@@ -15,14 +15,14 @@ export default defineConfig({
           collapsed: true,
           items: [
             {
-              label: "Overview",
+              label: "Overview: Pantheons",
               slug: "pantheons/overview",
             },
             {
               label: "White",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/white/overview" },
+                { label: "Overview: White Pantheon", slug: "pantheons/white/overview" },
                 { label: "Auriel", slug: "pantheons/white/auriel" },
                 { label: "Lyra", slug: "pantheons/white/lyra" },
                 { label: "Paximus", slug: "pantheons/white/paximus" },
@@ -34,7 +34,7 @@ export default defineConfig({
               label: "Black",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/black/overview" },
+                { label: "Overview: Black Pantheon", slug: "pantheons/black/overview" },
                 { label: "Lorn", slug: "pantheons/black/lorn" },
                 { label: "Xyrxos", slug: "pantheons/black/xyrxos" },
                 { label: "Viscera", slug: "pantheons/black/viscera" },
@@ -46,7 +46,7 @@ export default defineConfig({
               label: "Blue",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/blue/overview" },
+                { label: "Overview: Blue Pantheon", slug: "pantheons/blue/overview" },
                 { label: "Veritas", slug: "pantheons/blue/veritas" },
                 { label: "Chronos", slug: "pantheons/blue/chronos" },
                 { label: "Aludra", slug: "pantheons/blue/aludra" },
@@ -58,7 +58,7 @@ export default defineConfig({
               label: "Red",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/red/overview" },
+                { label: "Overview: Red Pantheon", slug: "pantheons/red/overview" },
                 { label: "Erosia", slug: "pantheons/red/erosia" },
                 { label: "Ignis", slug: "pantheons/red/ignis" },
                 { label: "Neria", slug: "pantheons/red/neria" },
@@ -70,7 +70,7 @@ export default defineConfig({
               label: "Orange",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/orange/overview" },
+                { label: "Overview: Orange Pantheon", slug: "pantheons/orange/overview" },
                 { label: "Aegon", slug: "pantheons/orange/aegon" },
                 { label: "Volund", slug: "pantheons/orange/volund" },
                 { label: "Kaldor", slug: "pantheons/orange/kaldor" },
@@ -82,7 +82,7 @@ export default defineConfig({
               label: "Green",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/green/overview" },
+                { label: "Overview: Green Pantheon", slug: "pantheons/green/overview" },
                 { label: "Silvanus", slug: "pantheons/green/silvanus" },
                 { label: "Ceres", slug: "pantheons/green/ceres" },
                 { label: "Zinneroc", slug: "pantheons/green/zinneroc" },
@@ -94,7 +94,7 @@ export default defineConfig({
               label: "Purple",
               collapsed: true,
               items: [
-                { label: "Overview", slug: "pantheons/purple/overview" },
+                { label: "Overview: Purple Pantheon", slug: "pantheons/purple/overview" },
                 { label: "Parca", slug: "pantheons/purple/parca" },
                 { label: "Somnus", slug: "pantheons/purple/somnus" },
                 { label: "Alea", slug: "pantheons/purple/alea" },
@@ -103,6 +103,30 @@ export default defineConfig({
               ],
             },
           ],
+        },
+        {
+          label: "Planes of Existence",
+          collapsed: true,
+          items: [{ label: "Overview: Planes of Existence", slug: "planes/overview" }],
+        },
+        {
+          label: "Factions",
+          collapsed: true,
+          items: [{ label: "Overview: Factions", slug: "factions/overview" }],
+        },
+        {
+          label: "Caldaeus",
+          collapsed: true,
+          items: [{ label: "Overview: Caldaeus", slug: "caldaeus/overview" }],
+        },
+        {
+          label: "DM Guide",
+          collapsed: true,
+          slug: "dm-guide",
+        },
+        {
+          label: "Player Guide",
+          slug: "player-guide",
         },
       ],
     }),
