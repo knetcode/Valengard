@@ -2,9 +2,9 @@
 title: Green Pantheon
 ---
 
-The Green Pantheon is the embodiment of Nature's Cycles, Freedom, and Primal Instinct. This group encompasses the untamed and amoral power of the natural world. Their deities oversee everything from the bounty of the harvest and the silence of the ancient forest to the endless flow of the ocean and the fierce, chaotic instincts of the wild hunt. They are primarily Neutral in alignment, enforcing the cycle of life, death, and survival without concern for civilization's rules.
+The Green Pantheon is the embodiment of Nature's Cycles, Freedom, and Primal Instinct. This group encompasses the untamed and amoral power of the natural world. This group seeks to preserve and govern the natural world. This group governs nature, beasts and agriculture.
 
-### Govern Nature, Bounty, Forests, Farms, Animals, and The Wild
+Opposing Pantheon: Orange
 
 | Name                    | Alignment       | Short Description                                                                                                                                                                |
 | ----------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

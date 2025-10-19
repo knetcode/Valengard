@@ -3,7 +3,9 @@ title: White Pantheon
 description: White Pantheon
 ---
 
-The White Pantheon represents Orderly Goodness and the forces that establish and protect righteous civilization. Their deities emphasize discipline, structured society, compassion, and the pursuit of justice based on external laws and codes. They are the sworn protectors of the innocent and the architects of security, with a strong focus on Lawful Good and Lawful Neutral ideals. They stand as the unyielding bulwark against corruption and chaos, both internal and external.
+The White Pantheon represents Orderly Goodness and the forces that establish and protect righteous civilization. Their deities emphasize discipline, structured society, compassion, and the pursuit of justice based on external laws and codes. They are the sworn protectors of the innocent and the architects of security. They govern law, purity and sanctity.
+
+Opposing Pantheon: Black
 
 | Name                      | Alignment      | Short Description                                                                                                                                                                     |
 | ------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

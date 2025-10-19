@@ -2,9 +2,9 @@
 title: Orange Pantheon
 ---
 
-The Orange Pantheon governs the realms of Industry, Creation, and Material Wealth. These deities dictate how mortals build their world, from the permanent structures of great architecture to the flawless quality of the forge and the flow of trade and commerce. While some gods advocate for benevolent safety (Neutral Good), the Pantheon also includes strict masters of lawful efficiency and tyrannical industry (Lawful Evil), demonstrating the cold, calculated power needed to organize and dominate the material world.
+The Orange Pantheon governs the realms of Industry, Creation, and Material Wealth. These deities dictate how mortals build their world, from the permanent structures of great architecture to the flawless quality of the forge and the flow of trade and commerce. These deities seek to use and perfect the world. They govern trade, craft and invention.
 
-### Govern Industry, Forging, Mechanical Arts, Smithing, and Building
+Opposing Pantheon: Green
 
 | Name                      | Alignment      | Short Description                                                                                                                                                                              |
 | ------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

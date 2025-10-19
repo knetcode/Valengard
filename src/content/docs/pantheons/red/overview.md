@@ -2,9 +2,9 @@
 title: Red Pantheon
 ---
 
-The Red Pantheon is driven by intense Emotion, Personal Power, and Core Bonds. This group encompasses both selfish indulgence and selfless commitment. Their deities focus on the extremes of human feeling: from the self-aggrandizing quest for glory and wealth (Chaotic Neutral) to the passionate pursuit of love and the fierce defense of family and heritage (Neutral and Chaotic Good). They embody the fiery, unpredictable nature of the heart and the intensity of human desire and conflict.
+The Red Pantheon is driven by intense Emotion, Personal Power, and Core Bonds. Their deities focus on the extremes of mortal emotion, passionate pursuit of love and the fierce defense of family and heritage. They embody the fiery, unpredictable nature of the heart and the intensity of human desire and conflict. They often promote emotion over logic. They goven passion, bonds, family, self-indulgence.
 
-### Govern Emotion, Lust, Love, Vitality, Heritage, and Culture
+Opposing Pantheon: Blue
 
 | Name                | Alignment       | Short Description                                                                                                                                                         |
 | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

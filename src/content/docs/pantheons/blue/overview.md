@@ -2,9 +2,9 @@
 title: Blue Pantheon
 ---
 
-The Blue Pantheon embodies the pursuit of Knowledge, Structure, and Abstract Power. These deities are largely concerned with the underlying mechanics of the cosmos—logic, time, causality, and the mastery of arcana. They are often Neutral or Lawful Neutral, prioritizing objective truth and the perfection of systems over morality. This Pantheon guides scholars, mages, and thinkers who seek to catalogue the universe and manipulate its raw, complex energies.
+The Blue Pantheon embodies the pursuit of Knowledge, Structure, and Abstract Power. These deities are largely concerned with the underlying mechanics of the cosmos—logic, time, causality, and the mastery of arcana. They are often take a cold and logical approach and regard emotions as an inefficiency. This group governs logic, formulae, and mathematics.
 
-### Govern Knowledge, Learning, Arcane Power, Logic, and Libraries
+Opposing Pantheon: Red
 
 | Name                    | Alignment       | Short Description                                                                                                                                           |
 | ----------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

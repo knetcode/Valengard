@@ -2,9 +2,9 @@
 title: Black Pantheon
 ---
 
-The Black Pantheon represents the malevolent forces of Valengard. This group seeks to rule, destroy or play with mortal lives.
+The Black Pantheon is the concentrated force of malevolence and corruption in Valengard, viewing mortal lives as either expendable, objects for manipulation, or mere sources of entertainment. This group governs suffering, sacrifice and servitude.
 
-### Govern Evil, Chaos, Impurity, Murder, and Crime.
+Opposing Pantheon: White
 
 | Name                    | Alignment       | Short Description                                                                                                                                                 |
 | ----------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

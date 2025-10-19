@@ -2,7 +2,9 @@
 title: Purple Pantheon
 ---
 
-### Govern The Mystic, Dreams, Fate, Luck, Void, Astral, and Death (Metaphysical)
+The Purple Pantheon of Valengard is a collective of five deities who govern the realms beyond the material—the unseen forces of fate, dreams, luck, the void, and the transition of the soul. They are the gods of the metaphysical, concerned less with mortal ethics or politics and more with the cosmic architecture of existence, time, and consciousness. They seek to unluck the mysteries of the realm. They govern the metaphysical and intangible.
+
+Opposing Pantheon: None
 
 | Name                  | Alignment       | Short Description                                                                                                                                                                       |
 | --------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
