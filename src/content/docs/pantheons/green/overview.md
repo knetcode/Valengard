@@ -6,10 +6,10 @@ The Green Pantheon is the embodiment of Nature's Cycles, Freedom, and Primal Ins
 
 ### Govern Nature, Bounty, Forests, Farms, Animals, and The Wild
 
-| Name                    | Alignment       | Domains                     | Short Description                                                                                                                                                                |
-| ----------------------- | --------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Silvanus](../silvanus) | True Neutral    | Nature, Seasons, Wilderness | The embodiment of the ancient forest and the unbiased cycle of nature, demanding respect for the balance of growth, death, and the wild's unchanging rhythm.                     |
-| [Ceres](../ceres)       | Neutral Good    | Life, Bounty, Community     | The Harvest Mother, deity of agricultural abundance and fertile soil, who blesses crops and ensures the security and shared resources of the community.                          |
-| [Zinneroc](../zinneroc) | Chaotic Neutral | Wild, Beasts, Survival      | The Feral Sovereign, god of all natural beasts and the raw instinct of the hunt, ensuring the amoral, eternal cycle of predator and prey maintains the strength of the wild.     |
-| [Kalista](../kalista)   | True Neutral    | Water, Tempest, Knowledge   | The deity of the ocean depths, ruling the ebb and flow of all water. She embodies the vast, amoral power of the sea, its hidden mysteries, and the sudden violence of the storm. |
-| [Kyndra](../kyndra)     | Chaotic Good    | Tempest, Freedom, Air       | The deity of unrestrained wind and the open skies, embodying freedom, swift change, and the thrill of the nomadic journey away from restrictive civilization.                    |
+| Name                    | Alignment       | Short Description                                                                                                                                                                |
+| ----------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Silvanus](../silvanus) | True Neutral    | The embodiment of the ancient forest and the unbiased cycle of nature, demanding respect for the balance of growth, death, and the wild's unchanging rhythm.                     |
+| [Ceres](../ceres)       | Neutral Good    | The Harvest Mother, deity of agricultural abundance and fertile soil, who blesses crops and ensures the security and shared resources of the community.                          |
+| [Zinneroc](../zinneroc) | Chaotic Neutral | The Feral Sovereign, god of all natural beasts and the raw instinct of the hunt, ensuring the amoral, eternal cycle of predator and prey maintains the strength of the wild.     |
+| [Kalista](../kalista)   | True Neutral    | The deity of the ocean depths, ruling the ebb and flow of all water. She embodies the vast, amoral power of the sea, its hidden mysteries, and the sudden violence of the storm. |
+| [Kyndra](../kyndra)     | Chaotic Good    | The deity of unrestrained wind and the open skies, embodying freedom, swift change, and the thrill of the nomadic journey away from restrictive civilization.                    |
