@@ -111,8 +111,8 @@ export default defineConfig({
         },
         {
           label: "Factions",
-          collapsed: true,
-          items: [{ label: "Overview: Factions", slug: "factions/overview" }],
+          collapsed:true,
+          autogenerate: {directory: "factions"}
         },
         {
           label: "Caldaeus",
