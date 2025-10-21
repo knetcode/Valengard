@@ -8,7 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "send": "pn build ; git add . ; git commit -m 'updates' ; git push -u origin main"
+    "send": "pnpm build ; git add . ; git commit -m 'updates' ; git push -u origin main"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.36.1",
